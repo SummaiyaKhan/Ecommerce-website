@@ -9,8 +9,8 @@ export default function Secand() {
 
     <div>
         <ul className="ml-32 mt-8 text-sm relative">
-            <li className="mt-3 flex items-center ">Woman's Fashion<BsChevronRight className="ml-10 text-black"/></li>
-            <li className="mt-3 flex items-center">Men's Fashion<BsChevronRight className="ml-[60px] text-black"/></li>
+            <li className="mt-3 flex items-center ">Woman of Fashion<BsChevronRight className="ml-10 text-black"/></li>
+            <li className="mt-3 flex items-center">Men of Fashion<BsChevronRight className="ml-[60px] text-black"/></li>
             <li className="mt-3">Electranics</li>
             <li className="mt-3">Home & Lifestyle</li>
             <li className="mt-3">Medicine</li>
@@ -47,7 +47,7 @@ export default function Secand() {
         alt="img"
         width={400}
         height={300} 
-        className=""
+        
       />
   </div>
   </div>

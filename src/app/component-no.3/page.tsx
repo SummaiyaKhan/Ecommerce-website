@@ -13,7 +13,7 @@ export default function Section1() {
         
             <div className="h-7 w-[13px] rounded-sm bg-red-600">
             </div>
-            <p className="ml-5 text-red-600 -mt-6 text-sm">Today's</p>
+            <p className="ml-5 text-red-600 -mt-6 text-sm">Today</p>
             <div className="flex ">
             <h1 className="text-3xl font-medium  text-black mt-5">Flash Sales</h1>
             <div className="flex mt-5 items-center ">
@@ -80,7 +80,7 @@ export default function Section1() {
     </button>
     </Link>
   </div>
-  <h1 className="text-lg text-black pb-1">AK-900 Waried Keyboard</h1>
+  <h1 className="text-lg text-black pb-1">AK 900 Waried Keyboard</h1>
   <div className="flex">
     <p className="text-red-500 font-bold">$960</p>
     <p className="text-gray-400 ml-5 font-bold">$1160</p>
@@ -122,7 +122,7 @@ export default function Section1() {
           />
           </div>
           <h1 className="text-lg text-black pb-1">
-             S-Series Comfort chair
+             Series Comfort chair
           </h1>
           <div className="flex">
             <p className="text-red-500 text-bold pb-1">$375 </p>

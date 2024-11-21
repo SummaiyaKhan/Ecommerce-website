@@ -82,7 +82,7 @@ export default function Section6() {
 
 </div>
 <div className="absolute mt-28 ml-16 w-72 h-60 ">
-    <h1 className="text-3xl font-light text-white pb-5">Woman's Collection</h1>
+    <h1 className="text-3xl font-light text-white pb-5">Woman of Collection</h1>
     <p className=" text-gray-200 font-light pb-5">Featured Woman collection that give you another vibe.</p>
     <p className=" text-white font-light text-xl">Shop Now</p>
     <div className="h-[1px] w-24 bg-gray-500  ">
